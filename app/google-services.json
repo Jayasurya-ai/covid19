@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "317633856882",
+    "firebase_url": "https://trinetra-f09f4.firebaseio.com",
+    "project_id": "trinetra-f09f4",
+    "storage_bucket": "trinetra-f09f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317633856882:android:5e05c99a11affd6c6549eb",
+        "android_client_info": {
+          "package_name": "org.electromob.covid_19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317633856882-cp5b1s3dpp4thirk3p3bor2cm1pkqq61.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.electromob.covid_19",
+            "certificate_hash": "7364858aa871459da8518e296d5da0a94cdc59b0"
+          }
+        },
+        {
+          "client_id": "317633856882-7ci0dkh5lbtnrqglvbl44mp7mba9alb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUN9JpvCLDLMy80MYMWAK_kFRJJxBpepA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317633856882-7ci0dkh5lbtnrqglvbl44mp7mba9alb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
